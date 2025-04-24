@@ -69,5 +69,5 @@ Here are three examples of effective connection names and descriptions:
 
    _The content in this connection can also be referred to as SFDC, Salesforce data or Salesforce Sales cloud._
    
-1. **BambooHR**: *This connection to BambooHR people data populates profiles of people in Microsoft 365 Copilot experiences like Teams or CoPilot. It's used to see or query about e.g., titles, emails, birthdays, and other people-related data.*
+1. **BambooHR**: *This connection to BambooHR people data populates profiles of people in Microsoft 365 Copilot experiences like Teams or Copilot. It's used to see or query about e.g., titles, emails, managers, and other people-related data.*
 
